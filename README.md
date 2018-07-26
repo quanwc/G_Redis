@@ -1,4 +1,4 @@
-#G_Redis项目：
+#redis-service项目：
    对redis的学习
    java实现，也就是使用jedis客户端
 startDate：2018-5-26 18:31:14<br/>
@@ -20,6 +20,6 @@ endDate：
     QQ：577342741
     邮箱：quan_wc@163.com
     博客：http://www.cnblogs.com/quan-coder/
-    
+
 
 
